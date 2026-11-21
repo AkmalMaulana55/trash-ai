@@ -1,0 +1,6 @@
+ultralytics==8.4.216
+pillow
+fastapi
+uvicorn
+python-multipart
+google-genai
